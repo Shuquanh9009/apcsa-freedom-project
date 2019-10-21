@@ -22,7 +22,12 @@ system that will give high-security standards. As I research more about this pro
 thinkings or add new features down to create a more complex smart lock system that's different than others.
 ##### Source
 I will find all related home security projects on https://create.arduino.cc/projecthub/projects
+<<<<<<< HEAD
 and will build on my version of the smart lock based on the standards that I want. 
+
+
+
+
 
 
 [Next](entry02.md)
