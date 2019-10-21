@@ -21,7 +21,7 @@ As of right now, I will continue to research more about the different ways I cou
 system that will give high security standards. As I research more about this project, I might change some of my orginal
 thinkings or add new features down to create a more complex smart lock system that's different than others.
 ##### Source
-I will found all related home security projects on https://create.arduino.cc/projecthub/projects
+I will find all related home security projects on https://create.arduino.cc/projecthub/projects
 and will build on my version on the smart lock based on the standards that I want. 
 
 
