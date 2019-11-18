@@ -7,8 +7,8 @@ In this freedom project, I had chosen to learn about **Arduino** because there's
 I am looking forward to using Arduino to create a project where is about smart home security. I want to focus on smart locks
 where I could better secure my items than a traditional lock. I mainly focus on using Arduino and to create a smart lock
 where I could use RFID(Radio Frequency Identification), passcode, and fingerprint scanner to unlock the system. I know there's a lot
-of these types of smart home security out there in the market and is **very expensive**. When creating one on my own using 
-Arduino is much cheaper and I could modify it to better fit my requirements. 
+of these types of smart home security out there in the market and is **very expensive**. When creating one on my own using
+Arduino is much cheaper and I could modify it to better fit my requirements.
 
 ### What are the main tools that are needed to complete this project?
 1. Arduino Uno
@@ -23,7 +23,8 @@ thinkings or add new features down to create a more complex smart lock system th
 ##### Source
 I will find all related home security projects on https://create.arduino.cc/projecthub/projects
 <<<<<<< HEAD
-and will build on my version of the smart lock based on the standards that I want. 
+and will build on my version of the smart lock based on the standards that I want.
+
 
 
 

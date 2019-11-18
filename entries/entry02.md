@@ -1,7 +1,15 @@
 # Entry 2
-##### X/X/XX
+##### 11/17/19
 
-Text
+### What Happen Since First Entry?
+In my previous blog entry, I shared my idea for the freedom project I wanted to do over the course of the year, which is a smack lock system using Arduino. I will be continuing to work on this year long project along with a new partner I found in class, his name is Wilson Zhang. We both shared the common interest of smart home security, so we decided to work together and produce a project where it's full of our great ideas. 
+### The Prototype Thinking
+For the prototype of our security lock system, we were thinking first building a lock system using Arduino. We would take an Arduino uno board and hook up to the components and modules that is going to be use as a feature of the lock system. As of right now, we had decided to use the RFID card module and passcode pad as the security pass feature of the lock. Of course, we would also have the lock itself, we are thinking to try using the eletric solenoid. The problem with the electric solenoid is that it can't direct connect to the Arduino itself, it requires a relay and battery/power sources in order to power it and connect it to the board. We would then program the system to work the way we want it to be. Once we got all that completed, we could then try putting this lock system onto a door and try it out.
+### The Knowledge or Information We Will Need In Order to Complete This Project
+The most important thing we need to know in order to complete this project is Arduino itself. We would need to know how the Arduino circuit boards work and how to program it in its own IDE. When we first interact with Arduino back in 10th grade, we learn the basics of how the circuit worked. There's the basic ground and power resistors that's needed to be connect to the board and is modules/components. As for the Arduino IDE, it looks very similar to Java which is what me and Wilson are learning currently in APCSA. But the language behind Arduino is C++ not Java, there will be some differences and we need to learn those differences in order to be successful when programming for our smart lock security system.
+### Useful Sources We Looked Into for Our Smart Home Lock Security System
+We had looked into many different websites to better assist ourselves with our projects. We had looked into the [Arduino website](https://www.arduino.cc/en/Tutorial/HomePage) where it contains information about the Arduino boards and example tutorials on how to program certain things. We also looked into some project that were already created by other people to get the sense of how their process of creating something very similar that me and Wilson is going to create. In this person's [project page](https://create.arduino.cc/projecthub/muhammad-aqib/rfid-and-keypad-door-lock-and-alert-system-using-arduino-60f050), he explained the flow of the basic understanding of the RFID modules, passcode keypad, and the circuit diagram. Of course, we are not going to replicate the same project. Our project shares similar features and we will be using that person's project blog post as a reference to help us build our own version of the smart home lock system. Our system will also include a face recognition feature where it detect whether a stranger or someone that we know is standing outside of the house. But we will be working on that part of the feature after we have finish with the hardware of the two security pass features which are the RFID and passcode.
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
