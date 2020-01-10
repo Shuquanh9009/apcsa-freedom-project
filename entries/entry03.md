@@ -9,6 +9,7 @@ I had found a project that someone posted about their Arduino RFID smart lock sy
 ### Engineering Design Process
 For my prototype, I am currently in the building stage where I am building it with Arduino UNO, RFID RC522 module, 16x2 LCD, and the breadboard. So far I had connected the RFID module and the LCD together. My next step is to get the soldering iron as soon as possible as mentioned before and solder the pins on the RFID module in order for me to test out if I have put ever part in its correct place. Also, I am testing it out my partner, Wilson's code that he is currently programming for our lock system using the RFID module. After testing out the RFID module with our program, we will be adding a solenoid lock into our system and testing it out with the RFID.
 
+<img src = "prototype1.jpg"></img>
 
 ### Skills
 Skills I am currently using to conduct this project are Arduino building, understanding the basics of circuits, and communication skills with my partner Wilson. Understanding the basics of circuits will better assist me in the Arduino building part of this project. Having good communication skills with my partner Wilson is very important in a group project like this because we could split up the works, where I mainly focus on Arduino building(hardware), and he focuses on learning how to program in Arduino IDE in order to have our own lock software.
